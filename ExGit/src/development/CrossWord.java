@@ -1,6 +1,7 @@
+package development;
 import java.util.Scanner;
 
-public class Ex01 {
+public class CrossWord {
 
 	public static void main(String[] args) {
 
